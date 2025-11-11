@@ -18,7 +18,7 @@
 
 
   <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=apoorva-katyayan&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views">sahil
+    <img src="https://komarev.com/ghpvc/?username=apoorva-katyayan&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views">
   </p>
   
 
@@ -80,7 +80,7 @@
 
 
 
-  <h3>✍️ Code code code</h3>
+  <h3>✍️ Random Quotes</h3>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote">
 
 
