@@ -20,7 +20,15 @@
   <p align="left">
     <img src="https://komarev.com/ghpvc/?username=apoorva-katyayan&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views">
   </p>
+
+    ### 🐍 The Snake That Eats My Contributions  
+
+<p align="center">
+  <i>“Beware! This snake grows stronger with every commit... 🐍💻💪”</i><br><br>
   
+</p>
+
+  ![snake gif](https://github.com/apoorva-katyayan/apoorva-katyayan/blob/output/github-snake-dark.svg)
 
   <h2>💫 About Me:</h2>
   <p>
