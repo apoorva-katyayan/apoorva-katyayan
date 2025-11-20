@@ -28,7 +28,7 @@
   
 </p>
 
-  ![snake gif](https://github.com/apoorva-katyayan/apoorva-katyayan/blob/output/github-snake.svg)
+  ![snake gif](https://github.com/apoorva-katyayan/apoorva-katyayan/blob/output/github-snake-dark.svg)
 
   <h2>💫 About Me:</h2>
   <p>
